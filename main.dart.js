@@ -36216,7 +36216,7 @@ r=s==null?null:s.content
 s=r==null
 if(!s)self.window.console.warn("The `assetBase` meta tag is now deprecated.\nUse engineInitializer.initializeEngine(config) instead.\nSee: https://docs.flutter.dev/development/platform-integration/web/initialization")
 q=this.b=s?"":r
-s=q}return A.SR(B.hw,s+"Aswin/assets"+a,B.a_,!1)}}
+s=q}return A.SR(B.hw,s+"aswin-web/assets"+a,B.a_,!1)}}
 A.uS.prototype={
 G(){return"BrowserEngine."+this.b}}
 A.km.prototype={

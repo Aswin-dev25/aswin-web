@@ -32,7 +32,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "830b966a0f0d5f4d23e7daa2f6b20acb
 "assets/assets/imgs/myprofile.jpg": "a1c0e1038e8212b962bcaf244d40b0e1",
 "assets/assets/imgs/myprofile.PNG": "6a2111c48d17859b05d7a86f62faa8ca",
 "assets/assets/imgs/prepster1.PNG": "43c4d099bd805e6f8dfca2931d787ddd",
-"Aswin/assets/FontManifest.json": "663783f541c46e7f04c244ce710d1b61",
+"aswin-web/assets/FontManifest.json": "663783f541c46e7f04c244ce710d1b61",
 "assets/fonts/MaterialIcons-Regular.otf": "e608273ecc1ee06b27797671b8b2ef95",
 "assets/NOTICES": "e5f58c1ee268d099f9ea26d41bdfe720",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
